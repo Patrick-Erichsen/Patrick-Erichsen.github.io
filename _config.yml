@@ -1,7 +1,6 @@
 site: Patrick Erichsen
 
 url: https://patrick-erichsen.github.io/
-baseurl: /personal-site
 
 collections:
   pages:

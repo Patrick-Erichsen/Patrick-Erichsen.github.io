@@ -1,0 +1,45 @@
+---
+layout: default
+title: Hi there 
+description: I'm Patrick, a UI Engineer passionate about leveraging emerging technologies to empower end-users.
+---
+
+<section class="hero_landing">
+	<div class="wrap">		
+		<center>
+			<h1>Hi there <span class="wave">👋</span></h1>
+			<img src="{{site.baseurl}}/images/about/headshot.jpg" style="border-radius: 50%; margin-top: 25px; margin-bottom: 25px;" width="20%" height="20%">
+			<p>I'm Patrick, a UI Engineer passionate about leveraging emerging technologies to empower end-users.</p>
+			<p>Currently I am leading efforts to build the frontend to <a href="{{site.baseurl}}/project/consensource" style="color: #3498db; text-decoration: underline;">ConsenSource</a>, a blockchain platform being developed at Target.</p>
+			{% include socials.html %}
+		</center>
+	</div>
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>

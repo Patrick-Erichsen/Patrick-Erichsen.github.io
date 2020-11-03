@@ -13,13 +13,13 @@ subtitle: UI Engineer at Target
 
 I am a UI Engineer passionate about leveraging emerging technologies to empower end users. 
 
-I get the most excited about my work when tackling big, complex, ambiguous problems in a user-centered context.
+I get excited when tackling big, complex, ambiguous problems in a user-centered context.
 
-### Work
+### Current Work
 
-Currently I am leading efforts to build the frontend to <a href="{{site.baseurl}}/project/consensource">ConsenSource</a>, a blockchain platform being developed at Target.
+I am leading efforts to build the frontend to <a href="{{site.baseurl}}/project/consensource">ConsenSource</a>, a blockchain platform being developed at Target.
 
-### Recent Side Projects
+### Recent Projects
 
 During the COVID-19 pandemic, I volunteered as a UI Engineer on the <a href="{{site.baseurl}}/project/safeplaces-app-development">SafePlaces</a> project, an open-source, privacy by design, digital contact tracing app that emerged from research out of the Camera Culture group in the MIT Media Lab. 
 

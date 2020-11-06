@@ -27,8 +27,6 @@ During the COVID-19 pandemic, I volunteered as a UI Engineer on the <a href="{{s
 
 [![most recent climb badge](https://img.shields.io/endpoint?url=https://su6nnbn0dk.execute-api.us-east-1.amazonaws.com/prod/getMountainProjectBadge?email=erich016@umn.edu)](https://www.mountainproject.com/user/200577529/patrick-erichsen) 
 
-[![check it out badge](https://forthebadge.com/images/about/badges/check-it-out.svg)](https://forthebadge.com) 
+In my spare time I enjoy just about any human-powered outdoor activity - rock climbing (sport, bouldering), biking, hiking, cross-country skiing. After graduating in 2018, I spent three weeks solo thru-hiking the [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-entire-route), which runs 300 miles from Duluth, MN to the Canadian border. 
 
 <img src="{{site.baseurl}}/images/about/collage.png" >
-
-In my spare time I enjoy just about any human-powered outdoor activity - rock climbing (sport, bouldering), biking, hiking, cross-country skiing. After graduating in 2018, I spent three weeks solo thru-hiking the [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-entire-route), which runs 300 miles from Duluth, MN to the Canadian border. 

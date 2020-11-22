@@ -251,14 +251,14 @@
 .image-wrap,
 .video-wrap {
 	position: relative;
-	margin: 20px auto;
+	margin: 10px auto;
 
 	@include mq(tabletp) {
-		margin: 30px auto;
+		margin: 15px auto;
 	}
 
 	@include mq(laptop) {
-		margin: 40px auto;
+		margin: 20px auto;
 	}
 
 	&:first-child {

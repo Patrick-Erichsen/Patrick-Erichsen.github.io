@@ -63,23 +63,21 @@ date: 2020-10-04
 			</a>
 		</div>
 	</div>
-</center>
 
-<hr />
+	<hr />
+</center>
 
 ## Overview
 
-Like many other non-essential workers, when the pandemic materialized in the US in March 2020, I felt helpless. 
-
-Unlike the defining crises of previous generations (WWII, 9/11, etc.), there was no enemy to mobilize against or military effort to enlist in. 
+Like millions of others, when COVID-19 brought life to a standstill in March, I felt helpless. Unlike the defining wars and crises of previous generations, this pandemic has no enemy to mobilize against or military effort to enlist in.
 
 I knew that my skills as a UI Engineer could somehow be put to use, but I struggled to find where. After learning of SafePlaces through the Hyperledger Foundation newsletter, I immediately knew that this was an impactful project where I could make a difference.
 
-<span class="highlighted-text">Once joining the team, I worked in close collaboration with a small team of core contributors to implement and design key pieces of functionality for the GPS-based contact tracing application.</span>
+<span class="highlighted-text">Once joining the team, I collaborated with a small group of core contributors on the React Native mobile app, building key features for the GPS-based contact tracing application.</span>
 
 The app can be downloaded on both the [App Store](https://apps.apple.com/us/app/pathcheck-safeplaces/id1508266966) and the [Google Play Store](https://play.google.com/store/apps/details?id=org.pathcheck.covidSafePlaces&hl=en_US&gl=US).
 
-## The Problem
+## Problem
 
 > “[Some of my patients] were more afraid of being blamed than dying of the virus" <br/><br/> -Lee Su-young, Psychiatrist at Myongji Hospital, South Korea [^2]
 

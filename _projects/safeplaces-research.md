@@ -35,10 +35,12 @@ date: 2020-10-03
         </div>
 	</div>
 
-	<p style="padding-top: 30px;">
-		<a href="{{ site.baseurl }}/project/safeplaces-app-development">View mobile app contributions to SafePlaces</a>
-	</p>
+	<!-- <p style="padding-top: 30px;">
+		</a>
+	</p> -->
 </center>
+
+> Our work was accepted as a poster presentation at the Dec 2020 <a href="https://ml4health.github.io/2020/" target="_blank">NeurIPS Workshop on Machine Learning for Health!
 
 <hr />
 

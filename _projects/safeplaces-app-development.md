@@ -109,7 +109,7 @@ The onboarding process suffered not only from a confusing code path that was dif
 
 <center>
 	<div style="display: flex; justify-content: space-between; padding-top: 15px; padding-bottom: 20px;">
-		<div style="flex: 50%;">
+		<div style="flex: 50%; padding-right: 10px">
 			<img src="{{site.baseurl}}/images/icons/help.png">
 			<h4>Vague / Technical Descriptions</h4>
 			<ul style="list-style: none;">
@@ -118,7 +118,7 @@ The onboarding process suffered not only from a confusing code path that was dif
 				</li>
 			</ul>
 		</div>
-		<div style="flex: 50%">
+		<div style="flex: 50%; padding-left: 10px">
             <img src="{{site.baseurl}}/images/icons/language.png">
 			<h4>English Only</h4>
 			<ul style="list-style: none;">

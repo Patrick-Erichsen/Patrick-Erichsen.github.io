@@ -39,7 +39,7 @@ date: 2020-10-02
 
 	<h2>In the news</h2>
 	<div style="display: flex; justify-content: space-between;">
-		<div style="flex: 50%;">
+		<div style="flex: 50%; padding-right: 10px">
 			<a href="https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains" target="_blank">
 				<figure>
 					<img src="{{site.baseurl}}/images/consensource/in-the-news/coindesk.png" style="padding-bottom: 10px;">
@@ -49,7 +49,7 @@ date: 2020-10-02
 				</figure>
 			</a>
 		</div>
-		<div style="flex: 50%;">
+		<div style="flex: 50%; padding-left: 10px">
 			<a href="https://www.forbes.com/sites/darrynpollock/2019/06/10/retail-giant-target-unmasks-its-blockchain-framework-aimed-at-supply-chain/?sh=6339ca602f2e" target="_blank">
 				<figure>
 					<img src="{{site.baseurl}}/images/consensource/in-the-news/forbes.png" style="padding-bottom: 10px;">

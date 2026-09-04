@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "viz-explain",
+      "type": "archive",
+      "description": "Explain any subject visually with evidence-grounded Excalidraw MCP App views. Use when a diagram, map, flow, comparison, timeline, or other visual model would make a concept easier to understand.",
+      "url": "viz-explain.tar.gz",
+      "digest": "sha256:b6af6adb5f8962fed636f01b72c1338c9057c1210dcacaed274727c6607828e1"
+    }
+  ]
+}
